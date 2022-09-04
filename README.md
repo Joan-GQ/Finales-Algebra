@@ -1,5 +1,8 @@
 # Finales-Algebra
-Cada Archivo con un Numero corresponde a un Final. Los Archvios con una "R" al comienzo del nombre implican que esa es la resolucion de un final.\
-Ej:  \
-"1.pdf"  <-- Final 1 \
-"R1.pdf" <-- Resolucion del Final 1 
+Repositorio para preparar el final de Álgebra.
+
+### Cómo leer
+- Año - Mes
+- En la carpeta de Resoluciones se pueden encontrar los resueltos con una respectiva "R" al incio. Cada fecha corresponde al final resuelto.
+- En caso de 2 finales en el mismo mes, se agrega un tercer item que refiere al día.
+
